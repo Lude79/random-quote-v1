@@ -1,7 +1,7 @@
 var usedQuotes = [];
 var html = "";
 var quotes = [
-    { quote: "Men always want to be a woman's first love - women like to be a man's last romance. ",
+    { quote: "Men always want to be a woman's first love - women like to be a man's last  romance. ",
       source: "Oscar Wilde",
       tag: "[humor]"
                 },
@@ -14,6 +14,11 @@ var quotes = [
       citation: "The Prince of Denmark"
                 },
     { quote: "Memory is the diary that we all carry about with us.",
+      source: "Oscar Wilde",
+      citation: "The Importance of Being Earnest",
+      year: 1895
+                },
+     { quote: "Memory is the diary that we all carry about with us.",
       source: "Oscar Wilde",
       citation: "The Importance of Being Earnest",
       year: 1895
